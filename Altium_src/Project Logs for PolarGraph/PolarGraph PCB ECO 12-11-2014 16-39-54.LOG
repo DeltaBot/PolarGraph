@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED Pin=U1-13
+Added Component: Designator=CT(CC 0805 (2012 metric))
+Added Pin To Net: NetName=LED Pin=U1-25
+Added Pin To Net: NetName=SERVO Pin=U1-13
+Added Net: Name=SERVO
+Added Member To Class: ClassName=PolarGraph Member=Component CT CC 100nF 0603 10V

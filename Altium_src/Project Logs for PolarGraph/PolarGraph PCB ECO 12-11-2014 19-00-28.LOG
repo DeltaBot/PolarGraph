@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3V3 Pin=R36-1
+Removed Pin From Net: NetName=SD_SW Pin=R36-2
+Removed Member From Class: ClassName=PolarGraph Member=R36
+Added Component: Designator=R21(RR 0603 (1608 metric))
+Added Pin To Net: NetName=3V3 Pin=R21-1
+Added Pin To Net: NetName=SD_SW Pin=R21-2
+Added Member To Class: ClassName=PolarGraph Member=Component R21 RR 1k 0402 5%

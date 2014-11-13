@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=PolarGraph Member=J3
+Added Component: Designator=C22(0603_C)
+Added Component: Designator=J6(ALPS_SCHA5B0200)
+Added Component: Designator=R36(0603_R)
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=3V3 Pin=C22-2
+Added Pin To Net: NetName=SS Pin=J6-2
+Added Pin To Net: NetName=MOSI Pin=J6-3
+Added Pin To Net: NetName=3V3 Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=MISO Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=GND Pin=J6-10
+Added Pin To Net: NetName=GND Pin=J6-11
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-13
+Added Pin To Net: NetName=GND Pin=J6-14
+Added Pin To Net: NetName=GND Pin=J6-15
+Added Pin To Net: NetName=3V3 Pin=R36-1
+Added Pin To Net: NetName=SCLK Pin=J6-5
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SD_SW Pin=J6-16
+Added Pin To Net: NetName=SD_SW Pin=R36-2
+Added Pin To Net: NetName=SD_SW Pin=U1-28
+Added Net: Name=SD_SW
+Added Member To Class: ClassName=PolarGraph Member=Component C22 Cap
+Added Member To Class: ClassName=PolarGraph Member=Component J6 SCHA5B0200
+Added Member To Class: ClassName=PolarGraph Member=Component R36 ResSTD

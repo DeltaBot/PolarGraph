@@ -1,0 +1,8 @@
+Added Component: Designator=J5(PTSM 0,5/ 8-2,5-H SMD)
+Added Member To Class: ClassName=PolarGraph Member=Component * XT CRYSTAL
+Added Member To Class: ClassName=PolarGraph Member=Component C4 CC 100nF 0603 10V
+Added Member To Class: ClassName=PolarGraph Member=Component C? CE Electrolytic
+Added Member To Class: ClassName=PolarGraph Member=Component D? DD 100mA 0603 30V
+Added Member To Class: ClassName=PolarGraph Member=Component J5 JJ PTSM SMD 8 pin
+Added Member To Class: ClassName=PolarGraph Member=Component R7 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component SW3 SW SMD PTS645 4p

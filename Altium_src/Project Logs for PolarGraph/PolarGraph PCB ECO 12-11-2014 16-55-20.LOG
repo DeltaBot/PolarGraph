@@ -1,0 +1,9 @@
+Added Component: Designator=L5(INDC3030X150N)
+Added Component: Designator=L6(INDC3030X150N)
+Added Component: Designator=L7(INDC8080X400N)
+Added Component: Designator=L8(INDC8080X400N)
+Added Member To Class: ClassName=PolarGraph Member=Component L1 LF 221 0805 2A
+Added Member To Class: ClassName=PolarGraph Member=Component L5 SRN3015-150M
+Added Member To Class: ClassName=PolarGraph Member=Component L6 SRN3015-100M
+Added Member To Class: ClassName=PolarGraph Member=Component L7 SRN8040-680M
+Added Member To Class: ClassName=PolarGraph Member=Component L8 SRN8040-680M

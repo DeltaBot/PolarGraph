@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3V3 Pin=R?-2
+Removed Pin From Net: NetName=3V3 Pin=R?-2
+Added Component: Designator=R?(RR 0603 (1608 metric))
+Added Component: Designator=R?(RR 0603 (1608 metric))
+Added Component: Designator=SW3(Switch-4p PTS645)
+Added Component: Designator=U?(D008_N)
+Added Pin To Net: NetName=BTN1 Pin=R?-1
+Added Pin To Net: NetName=BTN2 Pin=R?-1
+Added Pin To Net: NetName=BTN3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=RESET Pin=SW3-1
+Added Pin To Net: NetName=RESET Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW3-3
+Added Pin To Net: NetName=GND Pin=SW3-3
+Added Pin To Net: NetName=GND Pin=SW3-4
+Added Pin To Net: NetName=GND Pin=SW3-4
+Change Net Name : Old Net Name=5V New Net Name=USB-VCC
+Added Pin To Net: NetName=BTN-2 Pin=U1-32
+Added Net: Name=BTN-2
+Added Pin To Net: NetName=BTN-3 Pin=U1-23
+Added Net: Name=BTN-3
+Added Pin To Net: NetName=BTN-4 Pin=U1-24
+Added Net: Name=BTN-4
+Added Member To Class: ClassName=PolarGraph Member=Component J? JJ microSD
+Added Member To Class: ClassName=PolarGraph Member=Component U? IC TPS54231D D008

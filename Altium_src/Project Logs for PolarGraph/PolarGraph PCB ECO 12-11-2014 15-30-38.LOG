@@ -1,0 +1,96 @@
+Change Component Designator: OldDesignator=* NewDesignator=Q1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=D? NewDesignator=DL1
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Component: Designator=C3(CC 0805 (2012 metric))
+Added Component: Designator=C3(CC 0603 (1608 metric))
+Added Component: Designator=C3(CC 0603 (1608 metric))
+Added Component: Designator=C3(CC 0603 (1608 metric))
+Added Component: Designator=C3(CC 0603 (1608 metric))
+Added Component: Designator=C6(CC 0603 (1608 metric))
+Added Component: Designator=C?(CE 10x10x10)
+Added Component: Designator=D?(DD SMA + SMB)
+Added Component: Designator=D?(DD SMA + SMB)
+Added Component: Designator=J4(JACK POWER)
+Added Component: Designator=L?(LL 2220 (5750 metric))
+Added Component: Designator=R8(RR 0603 (1608 metric))
+Added Component: Designator=R8(RR 0603 (1608 metric))
+Added Component: Designator=R8(RR 0603 (1608 metric))
+Added Component: Designator=R9(RR 0603 (1608 metric))
+Added Component: Designator=R9(RR 0603 (1608 metric))
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=USB-VCC Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=3V3 Pin=D?-K
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=U3-7
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Added Pin To Net: NetName=12V Pin=J4-2
+Added Pin To Net: NetName=12V Pin=R8-2
+Added Pin To Net: NetName=12V Pin=U3-2
+Added Net: Name=12V
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=C3-2
+Added Pin To Net: NetName=Net*_1 Pin=U1-7
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=C4-2
+Added Pin To Net: NetName=Net*_3 Pin=U1-8
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R8-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U3-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=L?-2
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Pin To Net: NetName=NetR8_1 Pin=U3-5
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=PolarGraph Member=Component C1 CC 100nF 0603 10V
+Added Member To Class: ClassName=PolarGraph Member=Component C2 CC 100nF 0603 10V
+Added Member To Class: ClassName=PolarGraph Member=Component C3 CC 100nF 0603 10V
+Added Member To Class: ClassName=PolarGraph Member=Component C5 CC 100nF 0603 10V
+Added Member To Class: ClassName=PolarGraph Member=Component C6 CC 100nF 0603 10V
+Added Member To Class: ClassName=PolarGraph Member=Component C? CE Electrolytic
+Added Member To Class: ClassName=PolarGraph Member=Component DL1 DL 0805
+Added Member To Class: ClassName=PolarGraph Member=Component J4 JJ Jack Power
+Added Member To Class: ClassName=PolarGraph Member=Component L? LL 22uH 10mm 2A
+Added Member To Class: ClassName=PolarGraph Member=Component Q1 BC817
+Added Member To Class: ClassName=PolarGraph Member=Component R1 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component R2 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component R3 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component R4 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component R5 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component R6 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component R8 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component R9 RR 1k 0402 5%
+Added Member To Class: ClassName=PolarGraph Member=Component SW4 SW SMD PTS645 4p

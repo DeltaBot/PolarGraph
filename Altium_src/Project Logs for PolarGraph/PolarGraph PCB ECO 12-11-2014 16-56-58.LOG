@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=L6 Old DesignItemId=SRN3015-100M New DesignItemId=SRN3015-150M
+Change Component DesignItemId : Designator=L5 Old DesignItemId=SRN3015-150M New DesignItemId=B82422A1103K100
+Change Component DesignItemId : Designator=L8 Old DesignItemId=SRN8040-680M New DesignItemId=SRN3015-100M
+Change Component DesignItemId : Designator=L7 Old DesignItemId=SRN8040-680M New DesignItemId=SRN3015-150M
+Change Component Footprint: Designator=L5 Old Footprint=INDC3030X150N New Footprint=1210_L
+Change Component Footprint: Designator=L7 Old Footprint=INDC8080X400N New Footprint=INDC3030X150N
+Change Component Footprint: Designator=L8 Old Footprint=INDC8080X400N New Footprint=INDC3030X150N
+Change Component Comment : Designator=L6 Old Comment=SRN3015-100M New Comment=SRN3015-150M
+Change Component Comment : Designator=L5 Old Comment=SRN3015-150M New Comment=B82422A1103K100
+Change Component Comment : Designator=L8 Old Comment=SRN8040-680M New Comment=SRN3015-100M
+Change Component Comment : Designator=L7 Old Comment=SRN8040-680M New Comment=SRN3015-150M
+Change Component Description : Designator=L6 Old Description=Semi-shielded Power Inductors 10uH New Description=Semi-shielded Power Inductors 15uH
+Added Component: Designator=L9(INDC8080X400N)
+Added Component: Designator=L10(INDC3030X150N)
+Added Member To Class: ClassName=PolarGraph Member=Component L9 SRN8040-330M
+Added Member To Class: ClassName=PolarGraph Member=Component L10 SRN3015-100M

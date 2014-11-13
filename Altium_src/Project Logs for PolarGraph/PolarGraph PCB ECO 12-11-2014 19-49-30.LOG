@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 Pin=R4-2
+Removed Member From Class: ClassName=PolarGraph Member=R4
+Added Pin To Net: NetName=RESET Pin=SW3-1
+Added Pin To Net: NetName=RESET Pin=SW3-2

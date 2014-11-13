@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=PolarGraph Member=L5
+Removed Member From Class: ClassName=PolarGraph Member=L6
+Removed Member From Class: ClassName=PolarGraph Member=L7
+Removed Member From Class: ClassName=PolarGraph Member=L8
+Removed Member From Class: ClassName=PolarGraph Member=L10
+Change Component Designator: OldDesignator=L9 NewDesignator=L2
+Added Pin To Net: NetName=NetC8_1 Pin=L2-1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=L2-2
+Added Net: Name=NetD1_A

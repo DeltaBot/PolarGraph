@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=USB-VCC Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=CHASSIS Pin=J1-6
+Removed Pin From Net: NetName=CHASSIS Pin=J1-7
+Removed Pin From Net: NetName=CHASSIS Pin=J1-8
+Removed Pin From Net: NetName=CHASSIS Pin=J1-9
+Added Component: Designator=J2(USB Type B)
+Added Pin To Net: NetName=USB-VCC Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=CHASSIS Pin=J2-5
+Added Pin To Net: NetName=CHASSIS Pin=J2-6
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-16
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=U2-15
+Added Net: Name=NetJ2_3
+Added Member To Class: ClassName=PolarGraph Member=Component J2 JJ USB

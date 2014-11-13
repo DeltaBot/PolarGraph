@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=PolarGraph Member=CT
+Added Component: Designator=L?(INDC8080X400N)
+Added Component: Designator=T?(TDK_ACM7060)
+Added Member To Class: ClassName=PolarGraph Member=Component T? ACM7060-701-2PL-TL01
